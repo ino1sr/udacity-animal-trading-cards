@@ -1,0 +1,43 @@
+body {
+  font-size: 12px;
+  color: #222;
+}
+
+.card {
+  width: 320px;
+  border: 1px solid #505050;
+  border-radius: 6px;
+  box-shadow: 5px 5px 0 0 rgba(133,133,133,0.2);
+  background-color: #588052;
+}
+
+.animal-name {
+  font-size: 18px;
+  padding-left: 10px;
+  color: #3a2828;
+}
+
+.animal-photo {
+  width: 300px;
+  padding-left: 10px;
+}
+
+.animal-info {
+  margin: 10px;
+  border: 1px solid #505050;
+  padding: 0 10px;
+  background-color: #fff;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.facts-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.label {
+  font-weight: bold;
+}
